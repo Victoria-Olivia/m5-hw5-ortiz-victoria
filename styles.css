@@ -64,4 +64,27 @@ aside img {
     height: auto;
 }
 
+footer { 
+    clear: both;
+    position:fixed;
+    bottom: 0;
+    background: #333;
+    width: 100%;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    font-size: 18px;
+}
+
+.main-content {
+    padding: 40px auto;
+}
+
+.profile-image {
+    float: left;
+    margin: 0 20px 10px 0;
+    width: 175px;
+}
 

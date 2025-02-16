@@ -23,7 +23,7 @@ header {
 .container > h1 {
     background-color: #96c4ff;
     color: black;
-    border-bottom: 4px solid #96c4ff;
+    border-bottom: 1px solid #96c4ff;
 }
 
 h1 {

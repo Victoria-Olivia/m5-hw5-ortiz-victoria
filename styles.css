@@ -60,7 +60,7 @@ main {
 }
 
 aside {
-    background-color: cornflowerblue;
+    background-color: white;
     float: right;
     width: 20%;
     padding: 20px;
@@ -97,5 +97,4 @@ footer p {
     margin: 0 20px 10px 0;
     width: 175px;
 }
-
 
